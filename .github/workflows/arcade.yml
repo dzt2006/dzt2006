@@ -15,12 +15,11 @@ jobs:
       - name: Generate SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
-          platform: github
-          username: dzt2006
+          github_user_name: dzt2006
           github_token: ${{ secrets.PACMAN_TOKEN }}
           game: tetris
-          gameTheme: github
-          showMonthLabels: true
+          theme: github
+          show_month_labels: true
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
