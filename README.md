@@ -1,4 +1,4 @@
-云边有个小卖部，货架摆着晨光泥香旧歌普通的日子<img align="right" width="220" src="https://raw.githubusercontent.com/dzt2006/dzt2006/main/images/sky.jpg" style="margin-left: 20px; margin-bottom: 10px;" alt="sky">
+云边有个小卖部，货架摆着晨光泥香旧歌普通的日子<img align="right" width="220" src="https://raw.githubusercontent.com/dzt2006/dzt2006/main/images/skys.png" style="margin-left: 20px; margin-bottom: 10px;" alt="sky">
 
 
 > 云边有个小卖部，货架上摆着天空的蓝、晚风的温柔，和一点点没说出口的心事。
