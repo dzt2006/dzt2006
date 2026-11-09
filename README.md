@@ -1,23 +1,23 @@
-<!-- 右侧浮动动漫图：width 控制大小，可自己改数字 -->
-<img align="right" width="220" src="https://github.com/dzt2006/dzt2006/blob/main/b.jpg?raw=true" style="margin-left: 20px; margin-bottom: 10px;" alt="anime">
+云边有个小卖部，货架摆着晨光泥香旧歌普通的日子<img align="right" width="220" src="C:\Users\dzt\Desktop\GitHub\images\sky.jpg" style="margin-left: 20px; margin-bottom: 10px; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.65); backdrop-filter: blur(6px); filter: saturate(1.08) contrast(1.02);" alt="anime">
 
-> 我们凝望着最初的凝望，感到另一颗心跨越时空，望见生命的力量之和。
+> 云边有个小卖部，货架上摆着天空的蓝、晚风的温柔，和一点点没说出口的心事。
 > 
-> We gaze upon the first gaze,feeling another heart
-> transcend time and space,
-> seeing the sum of the power of life.
+> A little shop at the edge of the clouds — shelves lined with the blue of the sky,
+> the softness of the evening wind,
+> and a few words left unsaid.
 >
-> <p align="right">——《National Treasure》</p>
+> <p align="right">——《云边有个小卖部》</p>
 
-✨ Being keen on steering practical things, now hands-on **FE and BE**. ✨
 
-Though worldly affairs shift like fleeting clouds and life ultimately withers, the striving for eternity and brilliance amidst impermanence remains preserved in our cultural memory.
+
+✨ 日子像云，聚了又散；人像风，来了又走。但总有些想把生活过得亮晶晶的念头，会被天空悄悄收好。✨
+
+Days drift like clouds, gathering and scattering; people come and go like the wind. Yet the wish to make life a little brighter is quietly kept by the sky.
+
+
 
 Contributor and Developer of [@dzt2006/learning-journey](https://github.com/dzt2006/learning-journey)
 
-Nice to meet you! May every day be filled with sunshine and smiles for you. ★
 
----
 
-### 🐍 贡献贪吃蛇
-
+Nice to meet you. 愿你的每一天，云很轻，天很蓝，笑很甜。 🫧
