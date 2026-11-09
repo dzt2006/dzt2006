@@ -17,9 +17,8 @@ jobs:
         with:
           github_user_name: dzt2006
           github_token: ${{ secrets.PACMAN_TOKEN }}
-          game: tetris
-          theme: github
-          show_month_labels: true
+          games: tetris
+          hide_month_labels: false
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
