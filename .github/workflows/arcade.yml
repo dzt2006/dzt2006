@@ -16,8 +16,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           platform: github
-          username: ${{ github.repository_owner }}
-          game: pacman
+          username: dzt2006
+          github_token: ${{ secrets.PACMAN_TOKEN }}
+          game: tetris
           gameTheme: github
           showMonthLabels: true
 
