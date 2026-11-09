@@ -1,5 +1,5 @@
 <!-- 右侧浮动动漫图：width 控制大小，可自己改数字 -->
-<img align="right" width="220" src="https://github.com/dzt2006/dzt2006/blob/main/girl.png?raw=true" style="margin-left: 20px; margin-bottom: 10px;" alt="anime">
+<img align="right" width="220" src="https://github.com/dzt2006/dzt2006/blob/main/a.png?raw=true" style="margin-left: 20px; margin-bottom: 10px;" alt="anime">
 
 > 我们凝望着最初的凝望，感到另一颗心跨越时空，望见生命的力量之和。
 > 
