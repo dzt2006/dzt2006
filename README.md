@@ -22,3 +22,12 @@ Contributor and Developer of [@dzt2006/learning-journey](https://github.com/dzt2
 
 
 Nice to meet you. 愿你的每一天，云很轻，天很蓝，笑很甜。 🫧
+
+
+🟦 方块慢慢落，日子慢慢叠
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzt2006/dzt2006/output/tetris-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzt2006/dzt2006/output/tetris-contribution-graph.svg">
+  <img alt="tetris contribution graph" src="https://raw.githubusercontent.com/dzt2006/dzt2006/output/tetris-contribution-graph.svg">
+</picture>
+
