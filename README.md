@@ -1,4 +1,4 @@
-云边有个小卖部，货架摆着晨光泥香旧歌普通的日子<img align="right" width="220" src="C:\Users\dzt\Desktop\GitHub\images\sky.jpg" style="margin-left: 20px; margin-bottom: 10px; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.65); backdrop-filter: blur(6px); filter: saturate(1.08) contrast(1.02);" alt="anime">
+云边有个小卖部，货架摆着晨光泥香旧歌普通的日子<img align="right" width="220" src="./images/sky.jpg" style="margin-left: 20px; margin-bottom: 10px; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.65); backdrop-filter: blur(6px); filter: saturate(1.08) contrast(1.02);" alt="anime">
 
 > 云边有个小卖部，货架上摆着天空的蓝、晚风的温柔，和一点点没说出口的心事。
 > 
