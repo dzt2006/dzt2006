@@ -17,7 +17,7 @@ Days drift like clouds, gathering and scattering; people come and go like the wi
 
 
 
-Contributor and Developer of [@dzt2006/learning-journey](https://github.com/dzt2006/learning-journey)
+Contributor and Developer of [@dzt2006/Projects](https://github.com/dzt2006/Projects)
 
 
 
